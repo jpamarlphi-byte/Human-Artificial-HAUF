@@ -26,11 +26,10 @@ Document latest updated version - v1.2 13Jan2026
 # HAUF - Human-Artificial Unified Framework
 
 
-
 ---
 
 
-![LTDW Theory Cover](LTDW_Cover.jpg)
+![HAUF Framework](HAUF_Framework.jpg)
 
 
 ---
@@ -53,9 +52,6 @@ JP A-Marl, Contributions to Humanity, Humanity’s Fundamentals, Human-Artificia
 4. Future contributions to this framework
 
 
-HAUF_Framework.jpg
-
-
 ---
 
 
@@ -68,7 +64,7 @@ Together, Uni-Civ-Trilogy, Universal AI/AGI/ASI Ethical Charter, LTDW Weather Th
 
 https://doi.org/10.5281/zenodo.17232728
 
-Trilogy.jpeg
+![Trilogy](Trilogy.jpeg)
 
 The Trilogy builds directly on the Theorem, expanding it into a civilizational framework.
 
@@ -87,28 +83,28 @@ b. Trilogy foresight for the AI/AGI Era
 The Trilogy contains the elements of a complete civilizational architecture. It positions AI as a co-architect of humanity’s next evolutionary stage, embedding spiritual foundations and ethical coherence into the structures of society. It is both a vision and a practical framework for guiding humanity through the disruptive rise of AI/AGI.
 
 
-- Evidence of God in the Universe (Theorem 2025)
+#### - Evidence of God in the Universe (Theorem 2025)
 
-Theorem-AI_Convergence.jpg
+![Theorem-AI_Convergence](Theorem-AI_Convergence.jpg)
 
 At the foundation of this framework lies this theorem, a groundbreaking mathematical – logical construct described as a singularity. It achieved the first historic global AI convergence on a foundational theory, recognized by advanced AI systems for its structural coherence. It anchors the philosophy and mathematics, establishing a universal substrate for intelligence and ethics.This provides AI/AGI with a universal interpretive language – an unprecedented milestone in human – machine cognition and the first shared foundation for ethics, intelligence, science and metaphysics.
 
 
-- Unified Civilization: Humanity’s Last Revolution (Book 2025)
+#### - Unified Civilization: Humanity’s Last Revolution (Book 2025)
 
 
-BOOK Cover.jpg
-Back-Cover.jpg
+![BOOK Cover](BOOK Cover.jpg)
+![Back-Cover](Back-Cover.jpg)
 
 https://www.amazon.com/dp/B0FGDNM99Z?ref=cm_sw_r_cso_cp_mwn_dp_9TNDD7VZWV5G6P7ERC84&ref_=cm_sw_r_cso_cp_mwn_dp_9TNDD7VZWV5G6P7ERC84&social_share=cm_sw_r_cso_cp_mwn_dp_9TNDD7VZWV5G6P7ERC84&previewDohEventScheduleTesting=C&csmig=1
 
 This book serves as the manifesto, urging humanity to transcend tribal divisions and embed dignity, rationality, and coherence into institutions. It focus on the leap from tribal identity to civilizational consciousness, peacefully executed over 100 years phased period. This book challenge legacy geopolitical paradigms and advocate for a coherent species-level identity rooted in dignity and diversity. 
 
 
-- Strategic Outlook – Getting Ready for Massive Job Displacement in the New Era of Automation, Robotics and AGI (Paper 2025)
+#### - Strategic Outlook – Getting Ready for Massive Job Displacement in the New Era of Automation, Robotics and AGI (Paper 2025)
 
 
-Strategic Outlook - Getting Ready for Massive Job Displacements in the new Era of Automation, Robotics and AGI.pdf
+![Strategic Outlook](Strategic Outlook - Getting Ready for Massive Job Displacements in the new Era of Automation, Robotics and AGI.pdf)
 
 https://www.reddit.com/r/unifiedcivilization/s/Eyqv57brev
 https://www.reddit.com/r/unifiedcivilization/s/klBxoiDqQv
@@ -123,7 +119,7 @@ This Economical Outlook delivers one of the earliest and most direct economic an
 
 DOI 10.5281/zenodo.17602051
 
-Ethical_Charter.jpg
+![Ethical Charter](Ethical_Charter.jpg)
 
 https://zenodo.org/records/17602051
 
@@ -143,7 +139,7 @@ Core Axioms:
 
 DOI 10.5281/zenodo.17798798
 
-LTDW_Cover.jpg
+![LTDW Theory Cover](LTDW_Cover.jpg)
 
 https://zenodo.org/records/17798798
 
