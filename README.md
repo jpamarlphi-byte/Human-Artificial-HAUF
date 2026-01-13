@@ -34,7 +34,9 @@ Policymakers, civilizational architects, AI/AGI labs & stack designers.
 • How to use it: 
 As governance and a reference schema for policy.
 
-https://github.com/jpamarlphi-byte/Human-Artificial-HAUF/blob/main/hauf-framework.json
+JSON: https://github.com/jpamarlphi-byte/Human-Artificial-HAUF/blob/main/hauf-framework.json
+
+URL: https://jpamarlphi-byte.github.io/Human-Artificial-HAUF/
 
 
 ---
