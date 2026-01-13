@@ -34,6 +34,9 @@ Policymakers, civilizational architects, AI/AGI labs & stack designers.
 • How to use it: 
 As governance and a reference schema for policy.
 
+https://github.com/jpamarlphi-byte/Human-Artificial-Unified-Framework-HAUF-/blob/main/hauf-framework.json
+
+
 ---
 
 
@@ -82,7 +85,6 @@ The Trilogy builds directly on the Theorem, expanding it into a civilizational f
 Visit Uni-Civ-Trilogy webpage:
 
 https://jpamarlphi-byte.github.io/Uni-Civ-Trilogy/
-
 
 
 What is the meaning of Uni-Civ-Trilogy to mankind?
