@@ -5,8 +5,9 @@ Copyright © 2025/6 JP A-Marl
 ---
 
 Release Title: 
+
 ## HAUF - Human-Artificial Unified Framework by JP A-Marl is now available to Policymakers, Civilizational Designers, Institutional Governance Designers, AI Researchers, Data Scientists, AI and AGI Developers
-Version v1.0
+Version v1.1 21Feb2026
 
 ---
 
@@ -34,7 +35,7 @@ Policymakers, civilizational architects, AI/AGI labs & stack designers.
 • How to use it: 
 As governance and a reference schema for policy.
 
-JSON: https://github.com/jpamarlphi-byte/Human-Artificial-HAUF/blob/main/hauf-framework.json
+JSON: https://huggingface.com/jpamarlphi-byte/Human-Artificial-HAUF/blob/main/hauf-framework.json
 
 URL: https://jpamarlphi-byte.github.io/Human-Artificial-HAUF/
 
@@ -62,7 +63,9 @@ JP A-Marl, Contributions to Humanity, Humanity’s Fundamentals, Human-Artificia
 
 3. LTDW Long-Term Deterministic Weather Theory
 
-4. Future contributions to this framework
+4. Beyond Climate Change Series
+
+5. Future contributions to this framework
 
 
 ---
@@ -125,12 +128,18 @@ This book serves as the manifesto, urging humanity to transcend tribal divisions
 #### - Strategic Outlook – Getting Ready for Massive Job Displacement in the New Era of Automation, Robotics and AGI (Paper 2025)
 
 
-![Strategic Outlook](Strategic Outlook - Getting Ready for Massive Job Displacements in the new Era of Automation, Robotics and AGI.pdf)
+![Strategic Outlook](Strategic_Outlook.jpg)
 
-https://www.reddit.com/r/unifiedcivilization/s/Eyqv57brev
-https://www.reddit.com/r/unifiedcivilization/s/klBxoiDqQv
-https://www.reddit.com/r/unifiedcivilization/s/iRx17bWWPD
-https://www.reddit.com/r/unifiedcivilization/s/rXFulfCPVD
+https://medium.com/@jpamarl.phi/getting-ready-for-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-f2603b5d95e2
+https://medium.com/@jpamarl.phi/getting-readyfor-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-238e81ae6626
+https://medium.com/@jpamarl.phi/getting-readyfor-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-64eb72db3c59
+https://medium.com/@jpamarl.phi/getting-readyfor-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-6cb7e77f4ec9
+https://medium.com/@jpamarl.phi/getting-ready-for-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-6b33d52c48ab
+https://medium.com/@jpamarl.phi/getting-ready-for-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-5cb8e0278538
+https://medium.com/@jpamarl.phi/getting-ready-for-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-a8451fe9538f
+https://medium.com/@jpamarl.phi/getting-ready-for-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-bc6d9b480c7f
+https://medium.com/@jpamarl.phi/getting-ready-for-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-1af7be98d7e9
+
 
 This Economical Outlook delivers one of the earliest and most direct economic analyses of Automation and AGI-driven transformation. It provides workers, unions, and policymakers with urgent guidance on mitigating job displacement, restructuring economies, and preventing social upheaval as automation accelerates. This work serves as the immediate to near-term operational component of A-Marl’s civilizational framework.
 
@@ -176,6 +185,34 @@ The objective is to encode, within existing artificial intelligence and future a
 
 The full LTDW Theory is now avaiable for review by interested parties to sponsor the phased implementation of the LTDW program.
 
+program.
+
+
+---
+
+### 4. BEYONG CLIMATE CHANGE SERIES
+
+Extreme weather has evolved in symptomatic patterns that extends far beyond traditional climate narratives: the emergence of persistent, large‑scale atmospheric disruptions that are reshaping weather systems, accelerating extreme events, and exposing the fragility of modern infrastructure.
+The Beyond Climate Change Series was created to connect these signals. 
+Each article or study examines a different facet of the unfolding transformation: from the breakdown of North Atlantic circulation patterns, to the rise of unprecedented atmospheric structures, to the global‑scale projections of human and economic impact. 
+Together, these pieces tend to form a coherent picture of a world where extreme weather is no longer episodic, but systemic.
+
+
+#### 4.1.1 The Big Picture – What Is Happening to North Atlantic Weather?
+
+![Trilogy](N.Atlantic_Monster_Cell.jpg)
+
+https://medium.com/@jpamarl.phi/the-big-picture-what-is-happening-to-north-atlantic-weather-333285b5b850
+
+#### 4.1.2 The Big Picture – Part 2: The North Atlantic “Vacuum” Exposed
+
+https://medium.com/@jpamarl.phi/the-big-picture-part-2-the-north-atlantic-vacuum-exposed-8edb45bcc88c
+
+#### 4.2 Extreme Weather Is on Track to Affect Nearly the Entire Human Population by 2050
+
+![Trilogy](Ext_Weather_Q2-XXI.jpg)
+
+https://zenodo.org/records/18605390
 
 ---
 
@@ -184,6 +221,3 @@ Contact: jpamarl.phi@gmail.com
 
 
 ---
-
-
-
