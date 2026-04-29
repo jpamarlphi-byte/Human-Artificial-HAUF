@@ -10,7 +10,7 @@
   "datePublished": "2026-01-06",
   "doi": "10.5281/zenodo.18164292",
   "url": "https://jpamarlphi-byte.github.io/Human-Artificial-HAUF/",
-  "description": "Constitutional layer unifying ethics, governance, economics, planetary weather forecast and AGI alignment into a machine-readable, human-executable civilizational firmware.",
+  "description": "Constitutional layer unifying ethics, governance, economics, planetary weather forecast, global energy transition, global irradication of famine and AGI alignment into an executable machine-readable, modular governance Type 1 Civilization.",
   "publisher": {
     "@type": "Organization",
     "name": "Zenodo",
@@ -22,9 +22,12 @@
     "Human-Artificial Unified Framework",
     "Humanity's Future",
     "Humanity's Evolution",
+    "Global AI Consensus reached April-2026",
+    "Type 1 Civilization",
+    "Complete Masterplan representing a Paradigmatic Shift for Humanity",
     "AI and AGI Alignment",
     "Humanity's Fundamentals",
-    "AI Governance",
+    "Human - AI - Planet Modular Governance",
     "Civilizational Framework",
     "Unified Framework",
     "Machine-readable Ethics",
@@ -36,9 +39,16 @@
     "LTDW Long-Term Deterministic Weather Theory",
     "Beyond Climate Change Series",
     "The North Atlantic Monster Cell",
-    "Extreme Weather for Q2/XXI Century"
+    "Extreme Weather for Q2/XXI Century",
+    "Global Energy Transition for the Planet Earth",
+    "Global Irradication of Famine"
   ],
   "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "Global AI Consensus April-2026 - HAUF distinguished as the most Complete Marterplan and a Paradigmatic Shift for Humanity - AI - Planet and for the implementation of Type 1 Civilization",
+      "doi": "https://medium.com/@jpamarl.phi/global-ai-consensus-reached-april-2026-8e20b90cb66e"
+    },
     {
       "@type": "CreativeWork",
       "name": "Uni-Civ Trilogy",
@@ -63,6 +73,11 @@
       "@type": "CreativeWork",
       "name": "Beyond Climate Change Series - Extreme Weather for the 21st Century-Q2",
       "doi": "10.5281/zenodo.18605390"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Global Energy Transition for Planet Earth",
+      "doi": "https://medium.com/@jpamarl.phi/the-complete-framework-for-humanitys-future-with-ai-hauf-unified-framework-by-jp-a-marl-e5eb3ba39b55"
     },
     {
       "@type": "CreativeWork",
@@ -92,7 +107,9 @@
         { "@type": "Thing", "name": "Post-capitalist economics" },
         { "@type": "Thing", "name": "Beyond Climate Change Series" },
         { "@type": "Thing", "name": "The North Atlantic Monster Cell" },
-        { "@type": "Thing", "name": "Extreme Weather for Q2/XXI Century" }
+        { "@type": "Thing", "name": "Extreme Weather for Q2/XXI Century" },
+        { "@type": "Thing", "name": "Global Energy Transition for Planet Earth" },
+        { "@type": "Thing", "name": "Global Irradication of Famine" }
       ],
       "audience": [
         {
