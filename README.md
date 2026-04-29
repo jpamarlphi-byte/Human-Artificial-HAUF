@@ -193,7 +193,7 @@ Core Axioms:
 
 DOI 10.5281/zenodo.17798798
 
-![LTDW Theory Cover](LTDW_Cover.jpg)
+![LTDW Logo](LTDW_Logo.JPG)
 
 https://zenodo.org/records/17798798
 
