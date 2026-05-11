@@ -6,7 +6,7 @@ Copyright © 2025/6 JP A-Marl
 
 Release Title: 
 
-## HAUF - Human-Artificial Unified Framework by JP A-Marl is now available to Policymakers, Civilizational Designers, Institutional Governance Designers, AI Researchers, Data Scientists, AI and AGI Developers
+## HAUF - Human-Artificial Unified Framework by JP A-Marl is now available to Policymakers, Future Civilizational Designers, Future Institutional Governance Designers, AI Researchers, Data Scientists, AI and AGI Developers
 Version v1.1 21Feb2026
 
 ---
@@ -30,7 +30,7 @@ Document latest updated version - v1.0 13Jan2026
 Constitutional layer for human–AI–planetary governance.
 
 • Who it’s for: 
-Policymakers, civilizational architects, AI/AGI labs & stack designers.
+Policymakers, future civilizational architects, AI/AGI labs & stack designers.
 
 • How to use it: 
 As governance and a reference schema for policy.
