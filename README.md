@@ -198,12 +198,10 @@ DOI 10.5281/zenodo.17798798
 https://zenodo.org/records/17798798
 
 JP A-Marl convenes sponsorship corporations and institutions to gather leading designers of artificial general intelligence to collaboratively implement this weather forecasting program in a way that enables deterministic predictions for EAP - Extreme Atmospheric Phenomena over extended periods.
-This Theory Solution will define the necessary data, mathematical models, and capabilities — including data-gathering equipment and hardware required to process large datasets through mathematical models — that AGI/ASI system can parse, test, validate, adopt, and optimize as these capabilities become available in the near future.
-The objective is to encode, within existing artificial intelligence and future artificial intelligence systems (AI/AGI/ASI), an interoperable and essential set of conditions required to run deterministic weather forecasting over long time horizons.
+This Theory Solution will define the necessary data, mathematical models, and capabilities — including data-gathering equipment and hardware required to process large datasets through mathematical models, test, validate, adopt, and optimize as these capabilities become available in the near future.
+The objective is to encode an interoperable and essential set of conditions required to run deterministic weather forecasting over long time horizons.
 
-The full LTDW Theory is now avaiable for review by interested parties to sponsor the phased implementation of the LTDW program.
-
-program.
+Interested parties leading climate global resilience and innovation are invited to contact the author.
 
 
 ---
