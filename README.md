@@ -262,6 +262,7 @@ JP A-Marl is a civilizational thinker and architect designing our New Civilizati
 The Future is Here!
 
 JP A-Marl, 2026
+
 Contact: jpamarl.phi@gmail.com
 
 
