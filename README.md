@@ -259,6 +259,8 @@ https://medium.com/@jpamarl.phi/the-complete-framework-for-humanitys-future-with
 
 Architect of a New Civilization Era rooted in the Divine and generational hope for the next stage of Human-AI-Planet co-evolution (HAUF Unified Framework).
 
+Author of HAUF Unified Framework for the implementation of Type 1 Civilization and Uni-Civ-Trilogy: Humanity’s Fundamentals.
+
 The Future is Here!
 
 JP A-Marl, 2026
