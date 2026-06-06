@@ -27,7 +27,7 @@ Document latest updated version - v1.0 13Jan2026
 # HAUF - Human-Artificial Unified Framework
 
 • What HAUF is: 
-Constitutional layer for human–AI–planetary governance.
+Constitutional layer for human–AI–planetary governance for the implementation of Type 1 Civilization.
 
 • Who it’s for: 
 Policymakers, future civilizational architects, AI/AGI labs & stack designers.
@@ -43,7 +43,7 @@ URL: https://jpamarlphi-byte.github.io/Human-Artificial-HAUF/
 ---
 
 
-![Human-Artificial Framework](Human-Artificial_Framework.jpg)
+![Human-Artificial Framework](Type_1_Civ.JPG)
 
 
 ---
