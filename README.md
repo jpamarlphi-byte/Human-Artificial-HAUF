@@ -241,9 +241,9 @@ The Energy module of HAUF is another Key Pillar for Humanity’s Future, and wil
 
 We need to address one of the most fundamental questions of our time:</p>
 
-How can humanity transition away from fossil‑fuel dependency, which the root cause of global instability, conflict, and environmental imbalance,and harvest a clean, self-suficient, and continuous planetary energy? 
+How can humanity transition away from fossil‑fuel dependency, which the root cause of global instability, conflict, and environmental imbalance,and harvest a clean, self-suficient, and continuous planetary energy?
 
-The answer will come shortly to HAUF.
+The answer will come shortly to HAUF. 
 
 Read about it on Medium
 
