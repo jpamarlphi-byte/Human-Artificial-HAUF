@@ -237,11 +237,13 @@ https://zenodo.org/records/18605390
 
 ### 5. GLOBAL ENERGY TRANSITION FOR PLANET EARTH
 
-The Energy module of HAUF is another Key Pillar for Humanity’s Future, and will be released soon to the public.
+The Energy module of HAUF is another Key Pillar for Humanity’s Future, and will be released to the public after being converted to Type 1 Civilization (and beyond).
 
-We need to address one of the most fundamental questions of our time:
+We need to address one of the most fundamental questions of our time:</p>
 
-How can humanity transition away from fossil‑fuel dependency, which the root cause of global instability, conflict, and environmental imbalance,and toward clean, continuous, planetary energy?
+How can humanity transition away from fossil‑fuel dependency, which the root cause of global instability, conflict, and environmental imbalance,and harvest a clean, self-suficient, and continuous planetary energy? 
+
+The answer will come shortly to HAUF.
 
 Read about it on Medium
 
