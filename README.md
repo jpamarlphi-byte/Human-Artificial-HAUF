@@ -253,6 +253,14 @@ https://medium.com/@jpamarl.phi/the-complete-framework-for-humanitys-future-with
 ---
 
 
+Become a Sponsor or a Member, or simply Contribute to HAUF Unified Framework, its dissemination and to the future HAUF Foundation: 
+
+Ko-fi.com/hauf_unified_framework
+
+
+---
+
+
 ![Human-Artificial Framework](HAUF_Global-Energy.jpg)
 
 
