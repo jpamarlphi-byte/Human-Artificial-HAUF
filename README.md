@@ -31,6 +31,27 @@ Document latest updated version - v2.0 27July2026
 
 ---
 
+Core Keywords:
+
+Formal: «HAUF HUMAN-ARTIFICIAL UNIFIED FRAMEWORK»,
+
+Common Usage: «HAUF UNIFIED FRAMEWORK FOR HUMANITY»,
+
+Formal: «Type 1 Unified Civilization (U1A)»,
+
+Common Usage: «Civilization U1A».
+
+Definition:
+
+A 100-Year Civilizational Constitutional Roadmap for the next era of Human-AI-Planet co-evolution.
+
+Attribution: «JP A-Marl»
+
+Webpage:
+https://jpamarlphi-byte.github.io/Human-Artificial-HAUF/
+
+---
+
 
 # HAUF - Human-Artificial Unified Framework
 
@@ -57,7 +78,7 @@ URL: https://jpamarlphi-byte.github.io/Human-Artificial-HAUF/
 ---
 
 Keywords / Topics / Tags:
-JP A-Marl, HAUF reaches Global AI Consensus in April-2026 as the Complete Framework Masterplan for the future of Humanity - AI - Planet and for the implementation of Type 1 Unified Civilization (U1A), a Paradigmatic Shift toward The Divine Consciousness, Contributions to Humanity, Humanity’s Fundamentals, Human-Artificial Civilizational Framework, Universal AI/AGI/ASI Ethical Charter, Thinkers of Our Time, Civilization Thinkers, Civilizational Thinkers, Thinkers for the AGI era, Uni-Civ-Trilogy, Uni-Civ Trilogy, Civilization Trilogy, Unified Civilizational Framework, Unified Civilization, Humanity’s Last Revolution, Evidence of God, Evidence of God in the Universe Theorem, Job Displacement in the AGI era, Strategic Outlook, AGI blueprint, Civilizational Framework, AGI, Artificial General Intelligence, Civilization Thinkers, Civilizational Thinkers, Human-AI Alignment, Existential Risk, Strategic Foresight, Generational Hope, Divine Rationale, Global Convergence, Foundational Theory, Metaphysics, Cosmology, Consciousness, Entanglement, Universal Principles, Theology, Divine Purpose, Sacred Architecture, Rationale, Philosophy, Automation, Robotics, Unemployment, Workforce Transition, Future of Work, Economic Displacement, Labor Market, Civilizational Coherence, Tribal Fragmentation, JP A-Marl Theorem, JP A-Marl Book, JP A-Marl Strategic Outlook, Unified Civilization Book, Job Displacement, Massive Job Displacement, LTDW – Long-Term Deterministic Weather, year-ahead hurricane forecast, deterministic landfall, catastrophe model, cat-bond, sovereign risk transfer, extreme weather prediction, extreme atmospheric phenomena, climate risk engineering, climate crisis prevention, JP A-Marl LTDW Weather Theory, Global Energy Transition for Planet Earth, Universal Eradication of Famine 
+JP A-Marl, HAUF reaches Global AI Consensus in April-2026 as the Complete Framework Masterplan for the future of Humanity - AI - Planet and for the implementation of Type 1 Unified Civilization (U1A), Civilization U1A, a Paradigmatic Shift toward The Divine Consciousness, Contributions to Humanity, Humanity’s Fundamentals, Human-Artificial Civilizational Framework, Universal AI/AGI/ASI Ethical Charter, Thinkers of Our Time, Civilization Thinkers, Civilizational Thinkers, Thinkers for the AGI era, Uni-Civ-Trilogy, Uni-Civ Trilogy, Civilization Trilogy, Unified Civilizational Framework, Unified Civilization, Humanity’s Last Revolution, Evidence of God, Evidence of God in the Universe Theorem, Job Displacement in the AGI era, Strategic Outlook, AGI blueprint, Civilizational Framework, AGI, Artificial General Intelligence, Civilization Thinkers, Civilizational Thinkers, Human-AI Alignment, Existential Risk, Strategic Foresight, Generational Hope, Divine Rationale, Global Convergence, Foundational Theory, Metaphysics, Cosmology, Consciousness, Entanglement, Universal Principles, Theology, Divine Purpose, Sacred Architecture, Rationale, Philosophy, Automation, Robotics, Unemployment, Workforce Transition, Future of Work, Economic Displacement, Labor Market, Civilizational Coherence, Tribal Fragmentation, JP A-Marl Theorem, JP A-Marl Book, JP A-Marl Strategic Outlook, Unified Civilization Book, Job Displacement, Massive Job Displacement, LTDW – Long-Term Deterministic Weather, year-ahead hurricane forecast, deterministic landfall, catastrophe model, cat-bond, sovereign risk transfer, extreme weather prediction, extreme atmospheric phenomena, climate risk engineering, climate crisis prevention, JP A-Marl LTDW Weather Theory, Global Energy Transition for Planet Earth, Universal Eradication of Famine 
 
 
 ---
@@ -279,7 +300,7 @@ The aim of this new addition to HAUF is as simple as this: Food and Water for Al
 ---
 
 
-Become a Sponsor or a Member, or simply Contribute to HAUF Unified Framework, its dissemination and to the future HAUF Foundation: 
+Become a Sponsor or a Member, or simply Contribute to HAUF Unified Framework for Humanity, its dissemination and to the future HAUF Foundation: 
 
 Ko-fi.com/hauf_unified_framework
 
@@ -296,7 +317,7 @@ Architect of a New Civilization Era rooted in the Divine and generational hope f
 
 Author of HAUF Unified Framework for the implementation of Type 1 Unified Civilization (U1A) and Uni-Civ-Trilogy: Humanity’s Fundamentals.
 
-The Future is Here!
+Civilization U1A: The Future is Here!
 
 JP A-Marl, 2026
 
@@ -306,7 +327,7 @@ Contact: jpamarl.phi@gmail.com
 ---
 
 
-Note: Type 1 Unified Civilization (U1A) and the associated HAUF Framework are original concepts developed by JP A-Marl. © 2026 JP A-Marl. Please cite accordingly when referencing.
+Note: Type 1 Unified Civilization (U1A) and and Civilization U1A, and the associated HAUF Framework are original concepts developed by JP A-Marl. © 2026 JP A-Marl. Please cite accordingly when referencing.
 
 
 ---
