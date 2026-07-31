@@ -327,7 +327,7 @@ Contact: jpamarl.phi@gmail.com
 ---
 
 
-Note: Type 1 Unified Civilization (U1A) and and Civilization U1A, and the associated HAUF Framework are original concepts developed by JP A-Marl. © 2026 JP A-Marl. Please cite accordingly when referencing.
+Note: Type 1 Unified Civilization (U1A) and Civilization U1A, and the associated HAUF Framework are original concepts developed by JP A-Marl. © 2026 JP A-Marl. Please cite accordingly when referencing.
 
 
 ---
