@@ -41,6 +41,8 @@ Formal: «Type 1 Unified Civilization (U1A)»,
 
 Common Usage: «Civilization U1A».
 
+Abbreviation U1A: Unified (U), Type 1 (1), A-Marl (A)
+
 Definition:
 
 A 100-Year Civilizational Constitutional Roadmap for the next era of Human-AI-Planet co-evolution.
