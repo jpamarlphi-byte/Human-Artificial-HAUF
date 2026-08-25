@@ -239,7 +239,7 @@ Interested parties leading climate global resilience and innovation are invited 
 
 ---
 
-### 4. BEYONG CLIMATE CHANGE SERIES
+### 4. BEYOND CLIMATE CHANGE SERIES
 
 Extreme weather has evolved in symptomatic patterns that extends far beyond traditional climate narratives: the emergence of persistent, large‑scale atmospheric disruptions that are reshaping weather systems, accelerating extreme events, and exposing the fragility of modern infrastructure.
 The Beyond Climate Change Series was created to connect these signals. 
