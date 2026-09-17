@@ -172,6 +172,10 @@ At the foundation of this framework lies this theorem, a groundbreaking mathemat
 
 https://www.a.co/d/gG1uAxb
 
+Unified Civilization: Humanity’s Last Revolution is indexed in Google Books (canonical ID: 62WA0QEACAAJ
+
+https://books.google.com/books/about/Unified_Civilization.html?id=62WA0QEACAAJ&redir_esc=y
+
 This book serves as the manifesto, urging humanity to transcend tribal divisions and embed dignity, rationality, and coherence into institutions. It focus on the leap from tribal identity to civilizational consciousness, peacefully executed over 100 years phased period. This book challenge legacy geopolitical paradigms and advocate for a coherent species-level identity rooted in dignity and diversity. 
 
 --  :  --
