@@ -172,7 +172,7 @@ At the foundation of this framework lies this theorem, a groundbreaking mathemat
 
 https://www.a.co/d/gG1uAxb
 
-Unified Civilization: Humanity’s Last Revolution is indexed in Google Books (canonical ID: 62WA0QEACAAJ
+Unified Civilization: Humanity’s Last Revolution is indexed in Google Books (canonical ID: 62WA0QEACAAJ)
 
 https://books.google.com/books/about/Unified_Civilization.html?id=62WA0QEACAAJ&redir_esc=y
 
