@@ -74,10 +74,9 @@ now
 
 ---
 
+## PUBLIC TALKS:
 
-Public Talks:
-
-Planetary Risks & Choices - 
+• Planetary Risks & Choices - 
 Nov-10, 2026, 7h30pm, Oslo, Norway
 
 Visit the Venue:
