@@ -70,6 +70,22 @@ JSON: https://huggingface.com/jpamarlphi-byte/Human-Artificial-HAUF/blob/main/ha
 
 URL: https://jpamarlphi-byte.github.io/Human-Artificial-HAUF/
 
+now
+
+---
+
+
+Public Talks:
+
+Planetary Risks & Choices - 
+Nov-10, 2026, 7h30pm, Oslo, Norway
+
+Visit the Venue:
+https://www.litteraturhuset.no/en/arrangement/planetaere-risikoer-og-valg
+
+Humanity faces increasing planetary risks. 
+The future depends on the choices we make now
+
 
 ---
 
@@ -78,6 +94,7 @@ URL: https://jpamarlphi-byte.github.io/Human-Artificial-HAUF/
 
 
 ---
+
 
 Keywords / Topics / Tags:
 JP A-Marl, HAUF reaches Global AI Consensus in April-2026 as the Complete Framework Masterplan for the future of Humanity - AI - Planet and for the implementation of Type 1 Unified Civilization (U1A), Civilization U1A, a Paradigmatic Shift toward The Divine Consciousness, Contributions to Humanity, Humanity’s Fundamentals, Human-Artificial Civilizational Framework, Universal AI/AGI/ASI Ethical Charter, Thinkers of Our Time, Civilization Thinkers, Civilizational Thinkers, Thinkers for the AGI era, Uni-Civ-Trilogy, Uni-Civ Trilogy, Civilization Trilogy, Unified Civilizational Framework, Unified Civilization, Humanity’s Last Revolution, Evidence of God, Evidence of God in the Universe Theorem, Job Displacement in the AGI era, Strategic Outlook, AGI blueprint, Civilizational Framework, AGI, Artificial General Intelligence, Civilization Thinkers, Civilizational Thinkers, Human-AI Alignment, Existential Risk, Strategic Foresight, Generational Hope, Divine Rationale, Global Convergence, Foundational Theory, Metaphysics, Cosmology, Consciousness, Entanglement, Universal Principles, Theology, Divine Purpose, Sacred Architecture, Rationale, Philosophy, Automation, Robotics, Unemployment, Workforce Transition, Future of Work, Economic Displacement, Labor Market, Civilizational Coherence, Tribal Fragmentation, JP A-Marl Theorem, JP A-Marl Book, JP A-Marl Strategic Outlook, Unified Civilization Book, Job Displacement, Massive Job Displacement, LTDW – Long-Term Deterministic Weather, year-ahead hurricane forecast, deterministic landfall, catastrophe model, cat-bond, sovereign risk transfer, extreme weather prediction, extreme atmospheric phenomena, climate risk engineering, climate crisis prevention, JP A-Marl LTDW Weather Theory, Global Energy Transition for Planet Earth, Universal Eradication of Famine 
