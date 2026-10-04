@@ -70,8 +70,6 @@ JSON: https://huggingface.com/jpamarlphi-byte/Human-Artificial-HAUF/blob/main/ha
 
 URL: https://jpamarlphi-byte.github.io/Human-Artificial-HAUF/
 
-now
-
 ---
 
 ## PUBLIC TALKS:
