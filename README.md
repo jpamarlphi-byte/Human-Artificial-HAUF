@@ -7,7 +7,7 @@ Copyright © 2025/6 JP A-Marl
 Release Title: 
 
 ## HAUF - Human-Artificial Unified Framework by JP A-Marl is now available to Policymakers, Future Civilizational Designers, Future Institutional Governance Designers, AI Researchers, Data Scientists, AI and AGI Developers
-Version v2.0 27July2026
+Version v2.1 04Oct2026
 
 ---
 
