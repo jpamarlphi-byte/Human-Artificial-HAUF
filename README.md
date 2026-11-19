@@ -6,7 +6,7 @@ Copyright © 2025/6 JP A-Marl
 
 Release Title: 
 
-# JP A-Marl’s “THE GRAND VISION FOR HUMANITY”: HAUF Unified Framework 
+# JP A-Marl’s THE GRAND VISION FOR HUMANITY: HAUF Unified Framework 
 
 JP A-Marl is a Systems Thinker, Author and Civilizational Architect, Creator of “THE GRAND VISION FOR HUMANITY”: HAUF Unified Framework, and of a sustainable New Era built in abundance and dignity, rooted in the Divine consciousness and generational hope for the next stage of Human-AI-Planet co-evolution: Civilization U1A.
 
