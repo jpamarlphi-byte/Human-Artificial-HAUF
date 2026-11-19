@@ -145,7 +145,7 @@ https://medium.com/@jpamarl.phi/global-ai-consensus-reached-april-2026-8e20b90cb
 
 ## HAUF Framework Significance:
 
-Together, Uni-Civ-Trilogy, Universal AI/AGI/ASI Ethical Charter, LTDW Weather Theory and future contributions constitute the pioneering Human – Artificial Unified Civilizational Framework. The current integrated architecture already reconciles theory, science, metaphysics, philosophy and psychology, mathematics and logic, ethics, economics, weather science, and governance, positioning humanity to move from fragmented tribalism toward a unified existence in a technological advanced era. It aims for AI and its future AGI and ASI to evolve within ethical boundaries, safeguarding human dignity and planetary stability while opening the door to a new civilizational paradigmatic shift era.
+Together, Uni-Civ-Trilogy, Universal AI/AGI/ASI Ethical Charter, LTDW Weather Theory and future contributions constitute the pioneering Human – Artificial Unified Civilizational Framework. The current integrated architecture already reconciles theory, science, metaphysics, philosophy and psychology, mathematics and logic, ethics, economics, weather science, and governance, positioning humanity to move from fragmented tribalism toward a unified existence in a technologically advanced era. It aims for AI and its future AGI and ASI to evolve within ethical boundaries, safeguarding human dignity and planetary stability while opening the door to a new civilizational paradigmatic shift era.
 
 
 ---
@@ -181,7 +181,7 @@ The Trilogy contains the elements of a complete civilizational architecture. It 
 
 ![Theorem-AI_Convergence](Theorem-AI_Convergence.jpg)
 
-At the foundation of this framework lies this theorem, a groundbreaking mathematical – logical construct described as a singularity. It achieved the first historic global AI convergence on a foundational theory, recognized by advanced AI systems for its structural coherence. It anchors the philosophy and mathematics, establishing a universal substrate for intelligence and ethics.This provides AI/AGI with a universal interpretive language – an unprecedented milestone in human – machine cognition and the first shared foundation for ethics, intelligence, science and metaphysics.
+At the foundation of this framework lies this theorem, a groundbreaking mathematical – logical construct described as a singularity. It achieved the first historic global AI convergence on a foundational theory, recognized by advanced AI systems for its structural coherence. It anchors the philosophy and mathematics, establishing a universal substrate for intelligence and ethics. This provides AI/AGI with a universal interpretive language – an unprecedented milestone in human – machine cognition and the first shared foundation for ethics, intelligence, science and metaphysics.
 
 --  :  --
 
@@ -197,7 +197,7 @@ Unified Civilization: Humanity’s Last Revolution is indexed in Google Books (c
 
 https://books.google.com/books/about/Unified_Civilization.html?id=62WA0QEACAAJ&redir_esc=y
 
-This book serves as the manifesto, urging humanity to transcend tribal divisions and embed dignity, rationality, and coherence into institutions. It focus on the leap from tribal identity to civilizational consciousness, peacefully executed over 100 years phased period. This book challenge legacy geopolitical paradigms and advocate for a coherent species-level identity rooted in dignity and diversity. 
+This book serves as the manifesto, urging humanity to transcend tribal divisions and embed dignity, rationality, and coherence into institutions. It focuses on the leap from tribal identity to civilizational consciousness, peacefully executed over 100 years phased period. This book challenge legacy geopolitical paradigms and advocate for a coherent species-level identity rooted in dignity and diversity. 
 
 --  :  --
 
@@ -207,17 +207,25 @@ This book serves as the manifesto, urging humanity to transcend tribal divisions
 ![Strategic Outlook](Strategic_Outlook.jpg)
 
 https://medium.com/@jpamarl.phi/getting-ready-for-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-f2603b5d95e2
+
 https://medium.com/@jpamarl.phi/getting-readyfor-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-238e81ae6626
+
 https://medium.com/@jpamarl.phi/getting-readyfor-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-64eb72db3c59
+
 https://medium.com/@jpamarl.phi/getting-readyfor-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-6cb7e77f4ec9
+
 https://medium.com/@jpamarl.phi/getting-ready-for-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-6b33d52c48ab
+
 https://medium.com/@jpamarl.phi/getting-ready-for-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-5cb8e0278538
+
 https://medium.com/@jpamarl.phi/getting-ready-for-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-a8451fe9538f
+
 https://medium.com/@jpamarl.phi/getting-ready-for-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-bc6d9b480c7f
+
 https://medium.com/@jpamarl.phi/getting-ready-for-massive-job-displacement-in-the-new-era-of-automation-robotics-and-agi-1af7be98d7e9
 
 
-This Economical Outlook delivers one of the earliest and most direct economic analyses of Automation and AGI-driven transformation. It provides workers, unions, and policymakers with urgent guidance on mitigating job displacement, restructuring economies, and preventing social upheaval as automation accelerates. This work serves as the immediate to near-term operational component of A-Marl’s civilizational framework.
+This Economical Outlook delivers one of the earliest and most direct economic analyses of Automation and AGI-driven transformation. It provides workers, unions, and policymakers with urgent guidance on mitigating job displacement, restructuring economies, and preventing social upheaval as automation accelerates. This work serves as the immediate and near-term operational component of A-Marl’s civilizational framework.
 
 
 ---
@@ -232,7 +240,7 @@ DOI 10.5281/zenodo.17602051
 
 https://zenodo.org/records/17602051
 
-JP A-Marl co- authored with most of the leading LLMs the Universal Ethical Charter in Draft format, a machine-readable, versioned, and extensible constitutional framework for all intelligences – human and artificial.
+JP A-Marl coordinated with several leading LLMs the Universal Ethical Charter in Draft format, a machine-readable, versioned, and extensible constitutional framework for all intelligences – human and artificial.
 
 Core Axioms:
 
@@ -297,7 +305,7 @@ The Energy module of HAUF is another Key Pillar for Humanity’s Future, and wil
 
 We need to address one of the most fundamental questions of our time:</p>
 
-How can humanity transition away from fossil‑fuel dependency, which the root cause of global instability, conflict, and environmental imbalance, and harvest a clean, self-suficient, and continuous planetary energy to meet the Type 1 Civilization (K1) needs forecasted at 10^14W in 100-years horizon?
+How can humanity transition away from fossil‑fuel dependency, which is the root cause of global instability, conflict, and environmental imbalance, and harvest a clean, self-suficient, and continuous planetary energy to meet the Type 1 Civilization (K1) needs forecasted at 10^14W in 100-years horizon?
 
 The answer will come shortly to HAUF. 
 
@@ -317,7 +325,7 @@ The Global Eradication of Famine delivers the very basic core principle for a fu
 
 This is a future module still to be developed after the Energy Transition has been concluded.
 
-This module will include warer resource management and distribiution as part of its components.
+This module will include water resource management and distribution as part of its components.
 
 The aim of this new addition to HAUF is as simple as this: Food and Water for All.
 
